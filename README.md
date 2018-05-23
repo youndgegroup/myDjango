@@ -1,0 +1,2 @@
+# myDjango
+myDjango learn code
